@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1660754806 source:d:\imt\clinic project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"STD_TYPES.h"
+
+1660389032 d:\imt\clinic project\std_types.h
+	<stdio.h>
+

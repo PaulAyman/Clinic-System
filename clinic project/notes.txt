@@ -1,0 +1,6 @@
+1. the edit() after editing -> cause pop to the full node with the id,
+ makeing ene the id able to overwrite. -> zeros the next member in struct
+
+2.scanf(name) prints special characters.++++done++++
+
+3.the goddamn function()
